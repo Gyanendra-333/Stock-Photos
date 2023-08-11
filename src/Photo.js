@@ -26,4 +26,4 @@ const Photo = ({
   )
 }
 
-export default Photo
+export default Photo;
